@@ -25,7 +25,7 @@ Note: If you don't have Composer you can download it [HERE](https://getcomposer.
 
 #### Using release archives
 
-https://github.com/algol-team/php-utility/releases
+https://github.com/xusinovuz/php-utility/releases
 
 #### Using Git
 
@@ -63,7 +63,7 @@ All kinds of contributions are welcome - code, tests, documentation, bug reports
 Contact me
 ------------
 
-You can contact me [via Telegram](https://telegram.me/algol-team) but if you have an issue please [open](https://github.com/algol-team) one.
+You can contact me [via Telegram](https://telegram.me/mirj4lol) but if you have an issue please [open](https://github.com/xusinovuz) one.
 
 Support me
 ------------
