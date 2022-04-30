@@ -70,4 +70,4 @@ Support me
 
 You can support me using via LiberaPay [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/algol-team/donate)
 
-or buy me a beer or two using [Paypal](https://paypal.me/algol-team).
+or buy me a beer or two using [Paypal](https://paypal.me/).
